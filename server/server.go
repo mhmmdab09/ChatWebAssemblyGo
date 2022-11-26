@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	AddSrv       = ":8080"
+	AddSrv       = ":8090"
 	TemplatesDir = "../app/html/"
 )
 
